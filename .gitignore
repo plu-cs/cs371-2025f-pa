@@ -1,4 +1,6 @@
 *.class
+a.out
+.vscode/
 
 ### IntelliJ IDEA ###
 out/
@@ -12,3 +14,14 @@ out/
 
 # NPM
 node_modules/
+
+# Gradle
+.gradle/
+build/
+
+
+# Other useful things to ignore
+*.exe
+*.dll
+*~
+*.pyc
